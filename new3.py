@@ -422,27 +422,27 @@ def dynamic(text):
 
 #User agents
 
-ugen2=[]
+ugen2=[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586',]
 
-ugen=[]
+ugen=[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586',]
 
  
 
-for xd in range(1000000):
+#for xd in range(1000000):
 
-    aa='Mozilla/5.0 (Linux; U; Android'
+    #aa='Mozilla/5.0 (Linux; U; Android'
 
-    b=random.choice(['15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30])
+    #b=choice(['15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30])
 
-    c=' SAMSUNG SM-A715F'
+   # c=' SAMSUNG SM-A715F'
 
-    d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+   ### d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 
-    e=random.randrange(1, 999)
+   # e=random.randrange(1, 999)
 
-    f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+    #f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 
-    g='AppleWebKit/537.36 (KHTML, like Gecko) Mobile/'
+   # g='AppleWebKit/537.36 (KHTML, like Gecko) Mobile/'###
 
     h=random.randrange(73,100)
 
